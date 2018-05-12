@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '43712'
     url: http://www.gutenberg.org/2009/agents/43712
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46305#Yellowstone-via-Gallatin-Gateway-Montana
 gutenberg_issued: '2014-07-16'
 gutenberg_type: Text
 identifiers:
